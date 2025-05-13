@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\bin\Debug\net9.0\TipDonusumleri.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\refint\TipDonusumleri.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\TipDonusumleri.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\TipDonusumleri\obj\Debug\net9.0\ref\TipDonusumleri.dll
