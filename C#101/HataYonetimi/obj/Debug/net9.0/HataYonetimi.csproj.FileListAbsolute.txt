@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\bin\Debug\net9.0\HataYonetimi.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\bin\Debug\net9.0\HataYonetimi.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\bin\Debug\net9.0\HataYonetimi.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\bin\Debug\net9.0\HataYonetimi.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\bin\Debug\net9.0\HataYonetimi.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\HataYonetimi.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\HataYonetimi.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\refint\HataYonetimi.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\HataYonetimi.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\HataYonetimi.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\HataYonetimi\obj\Debug\net9.0\ref\HataYonetimi.dll
