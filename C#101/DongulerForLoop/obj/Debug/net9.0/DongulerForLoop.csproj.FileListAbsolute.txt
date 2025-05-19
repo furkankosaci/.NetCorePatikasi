@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\bin\Debug\net9.0\DongulerForLoop.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\bin\Debug\net9.0\DongulerForLoop.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\bin\Debug\net9.0\DongulerForLoop.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\bin\Debug\net9.0\DongulerForLoop.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\bin\Debug\net9.0\DongulerForLoop.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\DongulerForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\DongulerForLoop.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\DongulerForLoop.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\DongulerForLoop.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\DongulerForLoop.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\refint\DongulerForLoop.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\DongulerForLoop.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\DongulerForLoop.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\DongulerForLoop\obj\Debug\net9.0\ref\DongulerForLoop.dll
