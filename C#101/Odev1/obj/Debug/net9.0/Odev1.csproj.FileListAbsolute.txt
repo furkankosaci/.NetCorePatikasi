@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\bin\Debug\net9.0\Odev1.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\bin\Debug\net9.0\Odev1.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\bin\Debug\net9.0\Odev1.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\bin\Debug\net9.0\Odev1.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\bin\Debug\net9.0\Odev1.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\Odev1.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\refint\Odev1.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\Odev1.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\Odev1.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev1\obj\Debug\net9.0\ref\Odev1.dll
