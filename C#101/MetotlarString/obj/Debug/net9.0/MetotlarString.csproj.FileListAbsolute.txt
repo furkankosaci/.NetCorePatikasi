@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\bin\Debug\net9.0\MetotlarString.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\bin\Debug\net9.0\MetotlarString.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\bin\Debug\net9.0\MetotlarString.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\bin\Debug\net9.0\MetotlarString.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\bin\Debug\net9.0\MetotlarString.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\MetotlarString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\MetotlarString.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\MetotlarString.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\MetotlarString.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\MetotlarString.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\refint\MetotlarString.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\MetotlarString.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\MetotlarString.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarString\obj\Debug\net9.0\ref\MetotlarString.dll
