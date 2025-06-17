@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\bin\Debug\net9.0\Dictionary.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\bin\Debug\net9.0\Dictionary.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\bin\Debug\net9.0\Dictionary.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\bin\Debug\net9.0\Dictionary.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\bin\Debug\net9.0\Dictionary.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\Dictionary.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\refint\Dictionary.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\Dictionary.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\Dictionary.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Dictionary\obj\Debug\net9.0\ref\Dictionary.dll
