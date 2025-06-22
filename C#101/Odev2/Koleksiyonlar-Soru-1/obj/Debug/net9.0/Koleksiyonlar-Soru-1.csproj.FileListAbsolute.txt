@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net9.0\Koleksiyonlar-Soru-1.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net9.0\Koleksiyonlar-Soru-1.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net9.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net9.0\Koleksiyonlar-Soru-1.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\bin\Debug\net9.0\Koleksiyonlar-Soru-1.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\Koleksiyonlar-Soru-1.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\refint\Koleksiyonlar-Soru-1.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\Koleksiyonlar-Soru-1.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Odev2\Koleksiyonlar-Soru-1\obj\Debug\net9.0\ref\Koleksiyonlar-Soru-1.dll
