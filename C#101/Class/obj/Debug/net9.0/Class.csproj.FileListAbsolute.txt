@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\bin\Debug\net9.0\Class.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\bin\Debug\net9.0\Class.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\bin\Debug\net9.0\Class.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\bin\Debug\net9.0\Class.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\bin\Debug\net9.0\Class.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\Class.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\Class.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\Class.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\refint\Class.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\Class.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\Class.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Class\obj\Debug\net9.0\ref\Class.dll
