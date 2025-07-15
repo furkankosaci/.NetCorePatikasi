@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\bin\Debug\net9.0\13.0-Inheritance.exe
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\bin\Debug\net9.0\13.0-Inheritance.deps.json
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\bin\Debug\net9.0\13.0-Inheritance.runtimeconfig.json
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\bin\Debug\net9.0\13.0-Inheritance.dll
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\bin\Debug\net9.0\13.0-Inheritance.pdb
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.sourcelink.json
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.dll
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\refint\13.0-Inheritance.dll
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.pdb
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\13.0-Inheritance.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\13.0-Inheritance\obj\Debug\net9.0\ref\13.0-Inheritance.dll
