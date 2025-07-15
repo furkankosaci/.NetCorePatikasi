@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\bin\Debug\net9.0\Diziler.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\bin\Debug\net9.0\Diziler.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\bin\Debug\net9.0\Diziler.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\bin\Debug\net9.0\Diziler.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\bin\Debug\net9.0\Diziler.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\Diziler.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\Diziler.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\refint\Diziler.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\Diziler.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\Diziler.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\Diziler\obj\Debug\net9.0\ref\Diziler.dll

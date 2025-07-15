@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\bin\Debug\net9.0\12.4-ClassStruct.exe
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\bin\Debug\net9.0\12.4-ClassStruct.deps.json
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\bin\Debug\net9.0\12.4-ClassStruct.runtimeconfig.json
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\bin\Debug\net9.0\12.4-ClassStruct.dll
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\bin\Debug\net9.0\12.4-ClassStruct.pdb
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\12.4-ClassStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\12.4-ClassStruct.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\12.4-ClassStruct.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\12.4-ClassStruct.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\12.4-ClassStruct.dll
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\refint\12.4-ClassStruct.dll
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\12.4-ClassStruct.pdb
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\12.4-ClassStruct.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Belgeler\Pratikler\C#101\12.4-ClassStruct\obj\Debug\net9.0\ref\12.4-ClassStruct.dll

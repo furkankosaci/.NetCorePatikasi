@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\bin\Debug\net9.0\MetotlarDatetimeMath.exe
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\bin\Debug\net9.0\MetotlarDatetimeMath.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\bin\Debug\net9.0\MetotlarDatetimeMath.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\bin\Debug\net9.0\MetotlarDatetimeMath.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\bin\Debug\net9.0\MetotlarDatetimeMath.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\MetotlarDatetimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\MetotlarDatetimeMath.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\MetotlarDatetimeMath.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\MetotlarDatetimeMath.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\MetotlarDatetimeMath.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\refint\MetotlarDatetimeMath.dll
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\MetotlarDatetimeMath.pdb
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\MetotlarDatetimeMath.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Pratikler\C#101\MetotlarDatetimeMath\obj\Debug\net9.0\ref\MetotlarDatetimeMath.dll
