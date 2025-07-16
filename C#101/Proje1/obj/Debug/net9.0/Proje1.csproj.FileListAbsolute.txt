@@ -1,0 +1,15 @@
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\bin\Debug\net9.0\Proje1.exe
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\bin\Debug\net9.0\Proje1.deps.json
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\bin\Debug\net9.0\Proje1.runtimeconfig.json
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\bin\Debug\net9.0\Proje1.dll
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\bin\Debug\net9.0\Proje1.pdb
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.sourcelink.json
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.dll
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\refint\Proje1.dll
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.pdb
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\Proje1.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Belgeler\GitHub\.NetCorePatikasi\C#101\Proje1\obj\Debug\net9.0\ref\Proje1.dll
